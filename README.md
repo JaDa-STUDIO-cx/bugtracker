@@ -1,4 +1,4 @@
-<p align="center"><img src="https://jadastudio.cx/wp-content/uploads/2022/08/jada_logo_github.png"></p>
+<p align="center"><img src="https://jadastudio.cx/wp-content/uploads/2022/11/jdscx_logo_white.png"></p>
 
 <p align="center">
 <a href="https://github.com/JaDa-STUDIO-cx/bugtracker/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/JaDa-STUDIO-cx/bugtracker.svg?label=Offen" alt="Offene Issues"></a>
